@@ -7,8 +7,7 @@ Arduino-Project
 - L3GD20H(Gyroscope)
 
 ### Line Tracing
-- Zumo Robot
-- QTR sensor
+- QTR sensor(Zumo Robot)
 
 ### HW(Basic sensors for Arduino)
 - Ultrasonic distance sensor
