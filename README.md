@@ -2,7 +2,7 @@
 Arduino-Project
 
 ## Used Sensor list
-### In Zumo Robot(Final Project)
+### Final Project(Zumo Robot)
 - LSM303D(Accelerometer, Magnetometer)
 - L3GD20H(Gyroscope)
 - QTR sensor
