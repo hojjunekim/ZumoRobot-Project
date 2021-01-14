@@ -10,5 +10,5 @@ Arduino-Project
 ### HW(Basic sensors for Arduino)
 ##### -Ultrasonic distance sensor
 ##### -IR Infrared Obstacle Avoidance
-##### -Light intensity sensor
+##### -Light intensity sensor(CDs sensor)
 ##### -4bit 7segment
